@@ -3,8 +3,8 @@ import sys
 def default():
     print('I am an animal')
 
-def cat():
-    print('I am a cat')
+def dog():
+    print('I am a dog')
 
 def main():
     default()
